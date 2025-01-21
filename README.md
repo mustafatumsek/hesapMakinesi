@@ -6,8 +6,9 @@ ref: https://www.youtube.com/watch?v=uWNP1WM9zHA&t=218s
   
   ## Ekran Görüntüleri
 
-![App Screenshot](https://prnt.sc/_reg8sN7KHVp)  
-![App Screenshot](https://prnt.sc/I36bj4mqiTna) 
+![Ekran Resmi 2025-01-22 00 15 30](https://github.com/user-attachments/assets/cb267a02-dba2-4c25-a5a5-228e8ecec3d8)  
+  
+![Ekran Resmi 2025-01-22 00 19 33](https://github.com/user-attachments/assets/0b737b34-1a5e-4ff8-97be-e0fca2709edd)
 
   
 ## 🔗 İletişim
